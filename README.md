@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mandrita16" target="blank"><img src="https://img.shields.io/twitter/follow/mandrita16?logo=twitter&style=for-the-badge" alt="mandrita16" /></a> </p>
 
-- 🌱 I’m currently learning Machine Learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **mandritadasgupta16@gmail.com**
 
