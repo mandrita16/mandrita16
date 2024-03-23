@@ -11,7 +11,7 @@
 
 - <strong>Holopin badges</strong>
 
-[![@mandrita's Holopin board](https://www.holopin.io/@mandrita16)](https://https://www.holopin.io/@mandrita16#)
+[![@mandrita16's Holopin board](https://www.holopin.io/@mandrita16#)](https://https://www.holopin.io/@mandrita16#)
 
 
 
