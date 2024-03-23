@@ -9,6 +9,12 @@
 
 - 📫 How to reach me **mandritadasgupta16@gmail.com**
 
+- <strong>Holopin badges</strong>
+
+[![@taehyunhwang's Holopin board](https://www.holopin.io/@mandrita16)](https://https://www.holopin.io/@mandrita16#)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://developers.google.com/profile/u/109640290000354298515/edit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://developers.google.com/profile/u/109640290000354298515/edit" height="30" width="40" /></a>
@@ -22,4 +28,30 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandrita16&show_icons=true&locale=en&layout=compact" alt="mandrita16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&" alt="mandrita16" /></p>
+
+<p align="center">
+  <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+</p>
+
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/taehyun-hwang-876631201"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:eeht1717@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
+re/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+<code><img height="20" src="https://prisma.gallerycdn.vsassets.io/extensions/prisma/prisma/3.12.0/1649166081033/Microsoft.VisualStudio.Services.Icons.Default"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
+</div>
+
+
+
+
+
 
