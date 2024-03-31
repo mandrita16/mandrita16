@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mandrita Dasgupta</h1>
-<h3 align="center">Passionate AGI enthusiast dedicated to exploring the frontiers of Artificial General Intelligence </h3>
+<h1 align="center">Hey 👋👋, I'm Mandrita Dasgupta</h1>
+<h3 align="center">Passionate AGI enthusiast dedicated to exploring the frontiers of Artificial General Intelligence 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandrita16&label=Profile%20views&color=0e75b6&style=flat" alt="mandrita16" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **studying CSE at Heritage Institute Of Technology**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning,Deep Learning, NLP,Data Science**
+- 🧑‍💻 I’m currently learning **Artificial Intelligence, Machine Learning,Deep Learning, NLP,Data Science**
 
 - 🤝 I’m looking for help with **Typescript**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/ASUS/OneDrive/Resume-Mandrita-Dasgupta.pdf](file:///C:/Users/ASUS/OneDrive/Resume-Mandrita-Dasgupta.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me🔗:</h3>
 <p align="left">
 <a href="https://dev.to/https://developers.google.com/profile/u/109640290000354298515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://developers.google.com/profile/u/109640290000354298515" height="30" width="40" /></a>
 <a href="https://twitter.com/mandrita16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandrita16" height="30" width="40" /></a>
