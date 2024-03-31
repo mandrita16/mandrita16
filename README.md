@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mandrita16" target="blank"><img src="https://img.shields.io/twitter/follow/mandrita16?logo=twitter&style=for-the-badge" alt="mandrita16" /></a> </p>
 
-- 🔭 I’m currently **studying at Heritage Institute Of Technology**
+- 🔭 I’m currently **studying CSE at Heritage Institute Of Technology**
 
-- 🌱 I’m currently learning **AGI**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning,Deep Learning, NLP,Data Science**
 
-- 🤝 I’m looking for help with **firebases**
+- 🤝 I’m looking for help with **typescript**
 
 - 💬 Ask me about **Web Development**
 
