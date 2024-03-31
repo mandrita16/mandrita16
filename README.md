@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandrita Dasgupta</h1>
-<h3 align="center">A passionate ML developer</h3>
+<h3 align="center">Passionate AGI enthusiast dedicated to exploring the frontiers of Artificial General Intelligence </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandrita16&label=Profile%20views&color=0e75b6&style=flat" alt="mandrita16" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning,Deep Learning, NLP,Data Science**
 
-- 🤝 I’m looking for help with **typescript**
+- 🤝 I’m looking for help with **Typescript**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **mandritadasgupta16@gmail.com**
+- 📫 How to reach me **mandritadasgupta16@gmail.com//mandritadasgupta2005@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/ASUS/OneDrive/Resume-Mandrita-Dasgupta.pdf](file:///C:/Users/ASUS/OneDrive/Resume-Mandrita-Dasgupta.pdf)
 
