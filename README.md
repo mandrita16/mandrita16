@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently **studying CSE at Heritage Institute Of Technology**
 
-- 🧑‍💻 I’m currently learning **Artificial Intelligence, Machine Learning,Deep Learning, NLP,Data Science**
+- 🧑‍💻 I’m currently learning **Artificial Intelligence, Machine Learning,Deep Learning, NLP,Data Science 🤖**
 
 - 🤝 I’m looking for help with **Typescript**
 
