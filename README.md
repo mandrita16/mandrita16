@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **mandritadasgupta16@gmail.com//mandritadasgupta2005@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/ASUS/OneDrive/Resume-Mandrita-Dasgupta.pdf](file:///C:/Users/ASUS/OneDrive/Resume-Mandrita-Dasgupta.pdf)
+- 📫 How to reach me **mandritadasgupta16@gmail.com//mandritadasgupta2005@gmail.com;
 
 <h3 align="left">Connect with me🔗:</h3>
 <p align="left">
