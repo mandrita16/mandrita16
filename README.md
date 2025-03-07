@@ -1,9 +1,27 @@
 # <div align="center">👾 Mandrita Dasgupta</div>
 
-<div align="center">
-  <!-- Top Wave Animation -->
-  <img src="https://svg-banners.vercel.app/api?type=wave&text=&width=1800&height=80" width="100%" style="margin-bottom: -5px;">
-</div>
+<!-- Custom Top Wave Animation -->
+<svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave-gradient-top" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7" />
+      <stop offset="50%" stop-color="#bb9af7" />
+      <stop offset="100%" stop-color="#ff9e64" />
+    </linearGradient>
+  </defs>
+  <path d="M0,0 C150,40 350,0 500,30 C650,60 700,0 850,10 C1000,20 1100,40 1200,20 L1200,120 L0,120 Z" 
+        fill="url(#wave-gradient-top)">
+    <animate attributeName="d" 
+             dur="15s" 
+             repeatCount="indefinite" 
+             values="
+             M0,0 C150,40 350,0 500,30 C650,60 700,0 850,10 C1000,20 1100,40 1200,20 L1200,120 L0,120 Z;
+             M0,0 C150,20 350,40 500,20 C650,0 700,40 850,30 C1000,20 1100,10 1200,30 L1200,120 L0,120 Z;
+             M0,0 C150,40 350,0 500,30 C650,60 700,0 850,10 C1000,20 1100,40 1200,20 L1200,120 L0,120 Z
+             ">
+    </animate>
+  </path>
+</svg>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=440&height=45&lines=AI+%26+NLP+Enthusiast;Machine+Learning+Engineer;Future+AGI+Architect" />
@@ -107,10 +125,94 @@ graph TD
   <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
-<div align="center">
-  <!-- Bottom Wave Animation with gradient fill -->
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text=&width=1800&height=80" width="100%" style="margin-top: -5px;">
-</div>
+<!-- Custom Bottom Neural Network Animation -->
+<svg width="100%" height="150" viewBox="0 0 1200 150" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave-gradient-bottom" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9e64" />
+      <stop offset="50%" stop-color="#2ac3de" />
+      <stop offset="100%" stop-color="#bb9af7" />
+    </linearGradient>
+    <!-- Neural network node animation -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Wave background -->
+  <path d="M0,100 C300,20 600,180 1200,100 L1200,150 L0,150 Z" fill="url(#wave-gradient-bottom)">
+    <animate attributeName="d" 
+             dur="18s" 
+             repeatCount="indefinite" 
+             values="
+             M0,100 C300,20 600,180 1200,100 L1200,150 L0,150 Z;
+             M0,100 C200,140 700,60 1200,100 L1200,150 L0,150 Z;
+             M0,100 C300,20 600,180 1200,100 L1200,150 L0,150 Z
+             ">
+    </animate>
+  </path>
+  
+  <!-- Neural network nodes -->
+  <g filter="url(#glow)">
+    <!-- First row of nodes -->
+    <circle cx="200" cy="50" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="400" cy="40" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="600" cy="60" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="800" cy="30" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1000" cy="55" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    
+    <!-- Second row of nodes -->
+    <circle cx="300" cy="90" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="500" cy="100" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="700" cy="85" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="900" cy="95" r="4" fill="white">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.7s" repeatCount="indefinite" />
+    </circle>
+    
+    <!-- Connection lines -->
+    <line x1="200" y1="50" x2="300" y2="90" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4s" repeatCount="indefinite" />
+    </line>
+    <line x1="400" y1="40" x2="300" y2="90" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.5s" repeatCount="indefinite" />
+    </line>
+    <line x1="400" y1="40" x2="500" y2="100" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4.2s" repeatCount="indefinite" />
+    </line>
+    <line x1="600" y1="60" x2="500" y2="100" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.7s" repeatCount="indefinite" />
+    </line>
+    <line x1="600" y1="60" x2="700" y2="85" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4.5s" repeatCount="indefinite" />
+    </line>
+    <line x1="800" y1="30" x2="700" y2="85" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.9s" repeatCount="indefinite" />
+    </line>
+    <line x1="800" y1="30" x2="900" y2="95" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="5s" repeatCount="indefinite" />
+    </line>
+    <line x1="1000" y1="55" x2="900" y2="95" stroke="white" stroke-width="1" opacity="0.3">
+      <animate attributeName="opacity" values="0.1;0.4;0.1" dur="4.3s" repeatCount="indefinite" />
+    </line>
+  </g>
+</svg>
 
 ---
 
