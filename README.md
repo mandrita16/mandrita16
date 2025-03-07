@@ -1,6 +1,11 @@
 # <div align="center">👾 Mandrita Dasgupta</div>
 
 <div align="center">
+  <!-- Top Wave Animation -->
+  <img src="https://svg-banners.vercel.app/api?type=wave&text=&width=1800&height=80" width="100%" style="margin-bottom: -5px;">
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=440&height=45&lines=AI+%26+NLP+Enthusiast;Machine+Learning+Engineer;Future+AGI+Architect" />
 </div>
 
@@ -101,6 +106,11 @@ graph TD
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
+
+<div align="center">
+  <!-- Bottom Wave Animation with gradient fill -->
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text=&width=1800&height=80" width="100%" style="margin-top: -5px;">
+</div>
 
 ---
 
