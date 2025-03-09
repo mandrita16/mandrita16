@@ -1,238 +1,156 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,100:45CAFF&height=200&section=header&text=MANDRITA%20DASGUPTA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MANDRITA%20DASGUPTA&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%3C/%3E+Neural+Network+Architect" />
-</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=300&color=45CAFF&center=true&vCenter=true&width=500&height=70&lines=NLP+Specialist;Deep+Learning+Engineer;AGI+Researcher;Transformer+Model+Expert;Machine+Learning+Innovator" />
-</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=false&width=600&height=60&lines=AI+Engineer+%7C+ML+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=NLP+Specialist;Deep+Learning+Enthusiast;AGI+Explorer;Neural+Network+Architect" />
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mandrita-dasgupta-00a8a428b">
-    <img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/mandrita16">
-    <img height="40" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img height="35" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="mailto:mandritadasgupta16@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img height="35" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=mandrita16&style=for-the-badge&color=F85D7F&label=NEURAL+CONNECTIONS" alt="Profile Views" />
-</div>
-<br>
-<table>
-  <tr>
-    <td width="58%">
-      <h2>🧠 Neural Biography</h2>
-      <img align="right" width="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdmcmQxZW90Nzc1bzZrYXJxaTJ3eHNmajd0ZnpibjE0eHoxZ3VuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiSDZ2chial/giphy.gif"/>
-pythonCopyclass MandritaDasgupta:
+
+<img align="right" height="270" width="400" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+## 🤖 About Me
+
+```python
+class MandritaDasgupta:
     def __init__(self):
         self.name = "Mandrita Dasgupta"
-        self.role = "AI & ML Specialist"
         self.education = "CS Engineering @ Heritage Institute"
-        self.location = "Neural Network Layer 7"
+        self.interests = ["Artificial General Intelligence", 
+                          "Natural Language Processing", 
+                          "Neural Networks", 
+                          "Deep Learning"]
+        self.research_focus = "Creating intelligent systems that understand human cognition"
+        self.work_philosophy = "Building AI that augments human potential"
         
-    def technical_focus(self):
-        return {
-            "research": ["NLP", "Deep Learning", "Transformers"],
-            "models": ["BERT", "GPT", "Diffusion Models"],
-            "vision": "Building sentient AI that understands context"
-        }
+    def current_ventures(self):
+        return "Exploring the frontiers of transformer architectures and multimodal models"
         
-    def current_quests(self):
-        return [
-            "Training models that comprehend human emotion",
-            "Researching efficient attention mechanisms",
-            "Developing multilingual understanding systems"
-        ]
-Copy</td>
-<td width="42%">
-  <h2>⚡ Power Metrics</h2>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&background=0D1117&currStreakLabel=F85D7F&fire=F85D7F&ring=45CAFF&currStreakNum=FFFFFF&dates=FFFFFF&border=0D1117&stroke=0D1117&sideLabels=F85D7F&sideNums=45CAFF" alt="GitHub Streak"/>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mandrita16&show_icons=true&title_color=F85D7F&text_color=FFFFFF&icon_color=45CAFF&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</td>
-  </tr>
-</table>
-<h2 align="center">🔮 Neural Architecture</h2>
-mermaidCopymindmap
-  root((Mandrita's AI Universe))
-    (Deep Learning)
-      [Neural Networks]
-        Convolutional
-        Recurrent
-        GANs
-      [Transformers]
-        BERT
-        GPT
-        T5
-    (Natural Language)
-      [NLP Techniques]
-        Tokenization
-        Embeddings
-        Attention
-      [Applications]
-        Sentiment Analysis
-        Question Answering
-        Text Generation
-    (Computer Vision)
-      [Object Detection]
-      [Image Generation]
-    (AGI Research)
-      [Reasoning]
-      [Multi-task Learning]
-    (MLOps)
-      [Deployment]
-      [Monitoring]
-<h2 align="center">🧪 AI Laboratory Equipment</h2>
+    def life_mission(self):
+        return "Advancing the field of AI to create systems that benefit humanity"
+```
+
+## 🧠 AI & ML Tech Arsenal
+
 <div align="center">
   <table>
     <tr>
-      <td>
-        <h3 align="center">🤖 AI Core</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white&style=for-the-badge" alt="TensorFlow" />
-          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white&style=for-the-badge" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white&style=for-the-badge" alt="scikit-learn" />
-          <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white&style=for-the-badge" alt="Keras" />
-          <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white&style=for-the-badge" alt="CUDA" />
+      <td valign="top" width="33%">
+        <h3 align="center">Machine Learning</h3>
+        <div align="center">  
+          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />  
+          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />  
+          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />  
+          <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+          <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
         </div>
       </td>
-      <td>
-        <h3 align="center">🧬 NLP DNA</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face" />
-          <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&style=for-the-badge" alt="spaCy" />
-          <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&style=for-the-badge" alt="NLTK" />
-          <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=flat-square&style=for-the-badge" alt="Transformers" />
-          <img src="https://img.shields.io/badge/Word2Vec-11557C?style=flat-square&style=for-the-badge" alt="Word2Vec" />
+      <td valign="top" width="33%">
+        <h3 align="center">NLP & Data</h3>
+        <div align="center">  
+          <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />  
+          <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white" alt="spaCy" />  
+          <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />  
+          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
         </div>
       </td>
-    </tr>
-    <tr>
-      <td>
-        <h3 align="center">⚙️ Tools & Engines</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54&style=for-the-badge" alt="Python" />
-          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
-          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" />
-          <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black&style=for-the-badge" alt="Matplotlib" />
-          <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
-        </div>
-      </td>
-      <td>
-        <h3 align="center">☁️ Cloud Nexus</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
-          <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white&style=for-the-badge" alt="Google Cloud" />
-          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-          <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white&style=for-the-badge" alt="Firebase" />
+      <td valign="top" width="33%">
+        <h3 align="center">Web & Cloud</h3>
+        <div align="center">  
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />  
+          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />  
+          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+          <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+          <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
         </div>
       </td>
     </tr>
   </table>
 </div>
-<h2 align="center">🌠 AI Skill Matrix</h2>
+
+## 🚀 Current AI Explorations
+
 <div align="center">
-  <table>
-    <tr>
-      <td>Deep Learning</td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mandrita16/mandrita16/main/assets/bar.svg" height="20" width="500" alt="95%" title="95%"/>
-      </td>
-      <td>95%</td>
-    </tr>
-    <tr>
-      <td>Natural Language Processing</td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mandrita16/mandrita16/main/assets/bar.svg" height="20" width="450" alt="90%" title="90%"/>
-      </td>
-      <td>90%</td>
-    </tr>
-    <tr>
-      <td>Machine Learning</td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mandrita16/mandrita16/main/assets/bar.svg" height="20" width="435" alt="87%" title="87%"/>
-      </td>
-      <td>87%</td>
-    </tr>
-    <tr>
-      <td>Computer Vision</td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mandrita16/mandrita16/main/assets/bar.svg" height="20" width="400" alt="80%" title="80%"/>
-      </td>
-      <td>80%</td>
-    </tr>
-    <tr>
-      <td>Web Development</td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mandrita16/mandrita16/main/assets/bar.svg" height="20" width="375" alt="75%" title="75%"/>
-      </td>
-      <td>75%</td>
-    </tr>
-    <tr>
-      <td>MLOps & Deployment</td>
-      <td>
-        <img src="https://raw.githubusercontent.com/mandrita16/mandrita16/main/assets/bar.svg" height="20" width="350" alt="70%" title="70%"/>
-      </td>
-      <td>70%</td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
 </div>
-<h2 align="center">🚀 Neural Network Projects</h2>
+
+- 🧠 **Neural Networks Evolution**: Pushing the boundaries of neural architecture design
+- 🔮 **Self-Supervised Learning**: Exploring methods for learning without labeled data
+- 🌐 **Multimodal Deep Learning**: Combining vision and language understanding
+- 🤖 **Reinforcement Learning**: Training agents through innovative reward systems
+- 🔍 **Attention Mechanisms**: Advancing context understanding in language models
+
+## 📊 My AI Journey Visualization
+
+```mermaid
+graph TD
+    A[Classical ML] -->|Feature Engineering| B[Neural Networks]
+    B -->|Deep Learning| C[Advanced Architectures]
+    C -->|Attention Mechanism| D[Transformers]
+    D -->|Scale & Efficiency| E[Large Language Models]
+    E -->|Multimodality| F[Vision-Language Models]
+    F -->|Reasoning| G[AGI Research]
+    
+    style A fill:#ff5f56,stroke:#ff5f56,color:white,stroke-width:2px
+    style B fill:#ffbd2e,stroke:#ffbd2e,color:white,stroke-width:2px
+    style C fill:#27c93f,stroke:#27c93f,color:white,stroke-width:2px
+    style D fill:#58a6ff,stroke:#58a6ff,color:white,stroke-width:2px
+    style E fill:#8957e5,stroke:#8957e5,color:white,stroke-width:2px
+    style F fill:#d2a8ff,stroke:#d2a8ff,color:white,stroke-width:2px
+    style G fill:#f97583,stroke:#f97583,color:white,stroke-width:2px
+```
+
+## 💻 Code Metrics
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Emotion Detection NLP</h3>
-        <div align="center">
-          <a href="https://github.com/mandrita16/emotion-detection" target="_blank">
-            <img height="200px" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZheGFveXJ5ZXlyNnVjbHh3YTU4d3FweDI5ejM2bmc1YXUwbW1haiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IThjAlJnD9WNO/giphy.gif" />
-          </a>
-          <p>
-            <a href="https://github.com/mandrita16/emotion-detection" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </p>
-          <p><strong>PyTorch, Transformers, BERT</strong> - Advanced NLP model for detecting emotions in text with fine-tuned transformer architecture</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Multimodal Learning System</h3>
-        <div align="center">
-          <a href="https://github.com/mandrita16/multimodal-learning" target="_blank">
-            <img height="200px" width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG15bzRoaXluZDgyMTVwMDFiMWk1bGJtbXlseXhmN2M0YTBxa202aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" />
-          </a>
-          <p>
-            <a href="https://github.com/mandrita16/multimodal-learning" target="_blank">
-              <img src="https://img.shields.io/badge/CODE-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-          </p>
-          <p><strong>TensorFlow, CNN, RNN, Transformers</strong> - Model that combines visual and textual inputs for comprehensive understanding</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&theme=tokyo-night&hide_border=true&radius=8" width="100%">
 </div>
-<h2 align="center">🌌 AI Research Trajectory</h2>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=tokyonight&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397" height="200"/>
 </div>
-<br>
-<h2 align="center">📬 Neural Connection Ports</h2>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/mandrita-dasgupta-00a8a428b">
-    <img src="https://img.shields.io/badge/-Connect%20On%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mandrita16">
-    <img src="https://img.shields.io/badge/-Follow%20On%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:mandritadasgupta16@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7" width="100%">
 </div>
+
+<!-- AI SKILLS PROGRESS BARS -->
+<h2 align="center">🧠 AI Expertise Levels</h2>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45CAFF,100:F85D7F&height=100&section=footer&fontSize=90" />
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/95/?title=Deep%20Learning&width=400&color=ff5f56" alt="Deep Learning">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/90/?title=Natural%20Language%20Processing&width=400&color=ffbd2e" alt="NLP">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/85/?title=Computer%20Vision&width=400&color=27c93f" alt="Computer Vision">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/80/?title=Reinforcement%20Learning&width=400&color=58a6ff" alt="Reinforcement Learning">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/70/?title=MLOps&width=400&color=8957e5" alt="MLOps">
+  </div>
+</div>
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
