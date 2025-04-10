@@ -1,12 +1,3 @@
-
-Make it more cooler
-
-I need more information about what you'd like me to make "more cooler." Could you please:
-
-Specify what content, text, or project you're referring to
-Let me know what aspects you'd like improved or made "cooler"
-Once I understand what you're working on, I can help make it more engaging, stylish, or impressive!
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MANDRITA%20DASGUPTA&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
@@ -91,68 +82,4 @@ class MandritaDasgupta:
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
-</div>
-
-🧠 Neural Networks Evolution: Pushing the boundaries of neural architecture design
-🔮 Self-Supervised Learning: Exploring methods for learning without labeled data
-🌐 Multimodal Deep Learning: Combining vision and language understanding
-🤖 Reinforcement Learning: Training agents through innovative reward systems
-🔍 Attention Mechanisms: Advancing context understanding in language models
-## 📊 My AI Journey Visualization
-
-graph TD
-    A[Classical ML] -->|Feature Engineering| B[Neural Networks]
-    B -->|Deep Learning| C[Advanced Architectures]
-    C -->|Attention Mechanism| D[Transformers]
-    D -->|Scale & Efficiency| E[Large Language Models]
-    E -->|Multimodality| F[Vision-Language Models]
-    F -->|Reasoning| G[AGI Research]
-    
-    style A fill:#ff5f56,stroke:#ff5f56,color:white,stroke-width:2px
-    style B fill:#ffbd2e,stroke:#ffbd2e,color:white,stroke-width:2px
-    style C fill:#27c93f,stroke:#27c93f,color:white,stroke-width:2px
-    style D fill:#58a6ff,stroke:#58a6ff,color:white,stroke-width:2px
-    style E fill:#8957e5,stroke:#8957e5,color:white,stroke-width:2px
-    style F fill:#d2a8ff,stroke:#d2a8ff,color:white,stroke-width:2px
-    style G fill:#f97583,stroke:#f97583,color:white,stroke-width:2px
-## 💻 Code Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&theme=tokyo-night&hide_border=true&radius=8" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=tokyonight&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397" height="200"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7" width="100%">
-</div>
-
-<!-- AI SKILLS PROGRESS BARS -->
-<h2 align="center">🧠 AI Expertise Levels</h2>
-<div align="center">
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/95/?title=Deep%20Learning&width=400&color=ff5f56" alt="Deep Learning">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/90/?title=Natural%20Language%20Processing&width=400&color=ffbd2e" alt="NLP">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/85/?title=Computer%20Vision&width=400&color=27c93f" alt="Computer Vision">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/80/?title=Reinforcement%20Learning&width=400&color=58a6ff" alt="Reinforcement Learning">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/70/?title=MLOps&width=400&color=8957e5" alt="MLOps">
-  </div>
-</div>
-
-<div align="center">
-  <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
