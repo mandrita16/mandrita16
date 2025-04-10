@@ -1,248 +1,351 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MANDRITA%20DASGUPTA&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
-</div>
+<!-- INNOVATIVE COSMIC AI EXPLORER THEME -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=false&width=600&height=60&lines=AI+Engineer+%7C+ML+Researcher" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2000&pause=600&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=NLP+Specialist;Deep+Learning+Enthusiast;AGI+Explorer;Neural+Network+Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2387,50:E94057,100:F27121&height=300&section=header&text=MANDRITA%20DASGUPTA&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=45&desc=Neural%20Cosmos%20Explorer&descAlignY=70&descSize=20" width="100%" />
 </div>
+
+<!-- ANIMATED CONSTELLATION EFFECT -->
+<p align="center">
+  <img src="https://github.com/rajasegar/handy-hooks/blob/master/src/bg.svg" width="100%" height="150" alt="constellation">
+</p>
+
+<!-- NEURAL NETWORK NAVIGATOR -->
+<h2 align="center">🧬 N E U R A L &nbsp; N E T W O R K &nbsp; N A V I G A T O R 🧬</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%92%AC%20ABOUT%20ME-1B1F23?style=for-the-badge&labelColor=1B1F23" alt="About Me"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%94%AC%20RESEARCH-1B1F23?style=for-the-badge&labelColor=1B1F23" alt="Research"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20PROJECTS-1B1F23?style=for-the-badge&labelColor=1B1F23" alt="Projects"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20ANALYTICS-1B1F23?style=for-the-badge&labelColor=1B1F23" alt="Analytics"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-%F0%9F%94%8C%20CONTACT-1B1F23?style=for-the-badge&labelColor=1B1F23" alt="Contact"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- DIGITAL SIGNATURE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=2000&color=E94057&center=true&vCenter=true&repeat=false&width=800&height=60&lines=AI+Engineer+%7C+ML+Researcher+%7C+Neural+Architect" />
+</p>
+
+<!-- INTERACTIVE TERMINAL SHOWCASE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/chromeDinosaur.gif" width="120"/>
+  <pre width="100%">
+<span style="color: #8A2387;">mandrita@neural-lab</span>:<span style="color: #E94057;">~/ai-research</span>$ <span style="color: #F27121;">neural-profile --interactive</span>
+
+<span style="color: #8A2387;">LOADING NEURAL IDENTITY...</span>
+<span style="color: #E94057;">■■■■■■■■■■■■■■■■■■■■</span> 100%
+
+<span style="color: #F27121;">[CORE IDENTITY]</span>
+Name: Mandrita Dasgupta
+Focus: Creating intelligent systems that understand human cognition
+Mission: Building technology that augments human potential
+
+<span style="color: #F27121;">[RESEARCH DOMAINS]</span>
+➤ Transformer Architecture Evolution
+➤ Self-Supervised Learning Systems
+➤ Multimodal Intelligence Frameworks
+➤ Neural Scaling Dynamics
+
+<span style="color: #F27121;">[NEURAL SIGNATURE]</span>
+"Where algorithms meet consciousness - that's where the future begins"
+
+<span style="color: #8A2387;">mandrita@neural-lab</span>:<span style="color: #E94057;">~/ai-research</span>$ <span style="color: #F27121;">_</span>
+  </pre>
+</div>
+
+<!-- NEURAL NETWORK VISUALIZATION -->
+<h2 align="center">🧠 NEURAL ARCHITECTURE 🧠</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <div style="display: inline-block; border-radius: 50%; width: 100px; height: 100px; background: radial-gradient(circle, rgba(138,35,135,1) 0%, rgba(233,64,87,1) 100%); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">Input Layer</div>
+      </td>
+      <td>⟶</td>
+      <td>
+        <div style="display: inline-block; border-radius: 50%; width: 100px; height: 100px; background: radial-gradient(circle, rgba(233,64,87,1) 0%, rgba(242,113,33,1) 100%); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">Hidden Layer 1</div>
+      </td>
+      <td>⟶</td>
+      <td>
+        <div style="display: inline-block; border-radius: 50%; width: 100px; height: 100px; background: radial-gradient(circle, rgba(242,113,33,1) 0%, rgba(138,35,135,1) 100%); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">Hidden Layer 2</div>
+      </td>
+      <td>⟶</td>
+      <td>
+        <div style="display: inline-block; border-radius: 50%; width: 100px; height: 100px; background: radial-gradient(circle, rgba(138,35,135,1) 0%, rgba(233,64,87,1) 100%); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">Output Layer</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Computer Vision</td>
+      <td></td>
+      <td align="center">Transformer</td>
+      <td></td>
+      <td align="center">Attention</td>
+      <td></td>
+      <td align="center">Insights</td>
+    </tr>
+  </table>
+</div>
+
+<!-- HOLOGRAPHIC TECH STACK -->
+<h2 align="center">🌌 QUANTUM TECH STACK 🌌</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=plastic&logoWidth=30" alt="PyTorch" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">Tensor Manipulation<br/>Autograd<br/>Neural Networks</div>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=plastic&logoWidth=30" alt="TensorFlow" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">Keras Integration<br/>Distributed Training<br/>TF Serving</div>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white&style=plastic&logoWidth=30" alt="Transformers" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">BERT/GPT/T5<br/>Fine-tuning<br/>Transfer Learning</div>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/JAX-FFA5A5?style=for-the-badge&logo=jax&logoColor=white&style=plastic&logoWidth=30" alt="JAX" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">Auto-differentiation<br/>JIT Compilation<br/>Parallel Processing</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white&style=plastic&logoWidth=30" alt="PyTorch Lightning" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">Distributed Training<br/>Multi-GPU<br/>Research Workflow</div>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white&style=plastic&logoWidth=30" alt="Ray" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">Distributed Compute<br/>Ray Tune<br/>Ray Serve</div>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&style=plastic&logoWidth=30" alt="ONNX" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">Model Exchange<br/>Interoperability<br/>Deployment</div>
+      </td>
+      <td align="center" width="150px">
+        <img src="https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white&style=plastic&logoWidth=30" alt="Triton" />
+        <br/>
+        <div style="background: linear-gradient(90deg, rgba(138,35,135,0.3) 0%, rgba(233,64,87,0.3) 50%, rgba(242,113,33,0.3) 100%); padding: 5px; border-radius: 5px; margin-top: 5px;">Inference Server<br/>Multi-Framework<br/>Dynamic Batching</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 3D RESEARCH SPHERES -->
+<h2 align="center">🔮 RESEARCH DIMENSIONS 🔮</h2>
+
+<div align="center">
+  <table cellpadding="20">
+    <tr>
+      <td align="center">
+        <div style="width: 140px; height: 140px; border-radius: 70px; background: linear-gradient(135deg, #8A2387 0%, #E94057 50%, #F27121 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);">
+          <div style="font-size: 16px; color: white; text-align: center; padding: 10px;">
+            <strong>TRANSFORMER<br/>EVOLUTION</strong>
+          </div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="width: 140px; height: 140px; border-radius: 70px; background: linear-gradient(135deg, #8A2387 0%, #E94057 50%, #F27121 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);">
+          <div style="font-size: 16px; color: white; text-align: center; padding: 10px;">
+            <strong>MULTIMODAL<br/>INTELLIGENCE</strong>
+          </div>
+        </div>
+      </td>
+      <td align="center">
+        <div style="width: 140px; height: 140px; border-radius: 70px; background: linear-gradient(135deg, #8A2387 0%, #E94057 50%, #F27121 100%); display: flex; align-items: center; justify-content: center; box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);">
+          <div style="font-size: 16px; color: white; text-align: center; padding: 10px;">
+            <strong>SELF-SUPERVISED<br/>LEARNING</strong>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Attention Optimization<br/>Sparse Transformers<br/>Efficient Architectures</td>
+      <td align="center">Vision-Language Models<br/>Audio-Text Integration<br/>Cross-Modal Transfer</td>
+      <td align="center">Contrastive Learning<br/>Masked Auto-Encoding<br/>Generative Pretraining</td>
+    </tr>
+  </table>
+</div>
+
+<!-- BRAIN WAVE STATS -->
+<h2 align="center">📊 NEURAL ACTIVITY METRICS 📊</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&background=0D1117&stroke=E94057&ring=8A2387&fire=F27121&currStreakLabel=E94057&sideLabels=F27121&currStreakNum=F27121&sideNums=8A2387&dates=E94057&hide_border=true" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=mandrita16&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=F27121&icon_color=E94057&hide_border=true&count_private=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- NEURAL EXPERTISE VISUALIZATION -->
+<h2 align="center">🧮 NEURAL EXPERTISE MATRIX 🧮</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <div style="margin-bottom: 10px;"><strong style="color: #8A2387;">Deep Learning</strong></div>
+        <div style="width: 400px; height: 25px; background-color: #1F1F1F; border-radius: 13px; padding: 3px; position: relative;">
+          <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #8A2387 0%, #E94057 50%, #F27121 100%); border-radius: 10px;">
+            <span style="position: absolute; top: 50%; transform: translateY(-50%); right: 10px; color: white; font-weight: bold;">95%</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="margin: 10px 0;"><strong style="color: #8A2387;">Natural Language Processing</strong></div>
+        <div style="width: 400px; height: 25px; background-color: #1F1F1F; border-radius: 13px; padding: 3px; position: relative;">
+          <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #8A2387 0%, #E94057 50%, #F27121 100%); border-radius: 10px;">
+            <span style="position: absolute; top: 50%; transform: translateY(-50%); right: 10px; color: white; font-weight: bold;">90%</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="margin: 10px 0;"><strong style="color: #8A2387;">Computer Vision</strong></div>
+        <div style="width: 400px; height: 25px; background-color: #1F1F1F; border-radius: 13px; padding: 3px; position: relative;">
+          <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #8A2387 0%, #E94057 50%, #F27121 100%); border-radius: 10px;">
+            <span style="position: absolute; top: 50%; transform: translateY(-50%); right: 10px; color: white; font-weight: bold;">85%</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="margin: 10px 0;"><strong style="color: #8A2387;">Reinforcement Learning</strong></div>
+        <div style="width: 400px; height: 25px; background-color: #1F1F1F; border-radius: 13px; padding: 3px; position: relative;">
+          <div style="width: 80%; height: 100%; background: linear-gradient(90deg, #8A2387 0%, #E94057 50%, #F27121 100%); border-radius: 10px;">
+            <span style="position: absolute; top: 50%; transform: translateY(-50%); right: 10px; color: white; font-weight: bold;">80%</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="margin: 10px 0;"><strong style="color: #8A2387;">MLOps & Deployment</strong></div>
+        <div style="width: 400px; height: 25px; background-color: #1F1F1F; border-radius: 13px; padding: 3px; position: relative;">
+          <div style="width: 75%; height: 100%; background: linear-gradient(90deg, #8A2387 0%, #E94057 50%, #F27121 100%); border-radius: 10px;">
+            <span style="position: absolute; top: 50%; transform: translateY(-50%); right: 10px; color: white; font-weight: bold;">75%</span>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- TIMELINE VISUALIZATION -->
+<h2 align="center">⏳ NEURAL TIMELINE ⏳</h2>
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#8A2387', 'primaryTextColor': '#fff', 'primaryBorderColor': '#E94057', 'lineColor': '#F27121', 'secondaryColor': '#006100', 'tertiaryColor': '#fff' }}}%%
+timeline
+    title AI Evolution Path
+    2021 : Classical ML
+         : Feature Engineering
+    2022 : Neural Networks
+         : Deep Learning
+    2023 : Advanced Architectures
+         : Attention Mechanisms
+    2024 : Transformer Models
+         : Large Language Models
+    2025 : Multimodal AI
+         : AGI Research
+```
+
+<!-- HOLOGRAPHIC PROJECT SHOWCASES -->
+<h2 align="center">🌠 NEURAL CREATIONS 🌠</h2>
+
+<div align="center" style="display: flex; justify-content: space-between; margin: 20px;">
+  <div style="flex: 1; max-width: 45%; padding: 15px; background: linear-gradient(135deg, rgba(138,35,135,0.1) 0%, rgba(233,64,87,0.1) 50%, rgba(242,113,33,0.1) 100%); border-radius: 10px; margin: 10px;">
+    <h3 style="color: #E94057;">🧬 NeuroEvolution Framework</h3>
+    <p>A novel architecture for self-evolving neural networks that adapt to new data patterns without explicit retraining.</p>
+    <div style="display: flex; justify-content: space-between; margin-top: 15px;">
+      <span style="background-color: rgba(138,35,135,0.2); padding: 5px 10px; border-radius: 5px;">PyTorch</span>
+      <span style="background-color: rgba(233,64,87,0.2); padding: 5px 10px; border-radius: 5px;">Genetic Algorithms</span>
+      <span style="background-color: rgba(242,113,33,0.2); padding: 5px 10px; border-radius: 5px;">AutoML</span>
+    </div>
+  </div>
+  
+  <div style="flex: 1; max-width: 45%; padding: 15px; background: linear-gradient(135deg, rgba(138,35,135,0.1) 0%, rgba(233,64,87,0.1) 50%, rgba(242,113,33,0.1) 100%); border-radius: 10px; margin: 10px;">
+    <h3 style="color: #E94057;">🔮 MultiModal Fusion Engine</h3>
+    <p>Advanced framework for integrating vision, language, and audio understanding in a unified cognitive model.</p>
+    <div style="display: flex; justify-content: space-between; margin-top: 15px;">
+      <span style="background-color: rgba(138,35,135,0.2); padding: 5px 10px; border-radius: 5px;">Transformers</span>
+      <span style="background-color: rgba(233,64,87,0.2); padding: 5px 10px; border-radius: 5px;">JAX</span>
+      <span style="background-color: rgba(242,113,33,0.2); padding: 5px 10px; border-radius: 5px;">CLIP</span>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="display: flex; justify-content: space-between; margin: 20px;">
+  <div style="flex: 1; max-width: 45%; padding: 15px; background: linear-gradient(135deg, rgba(138,35,135,0.1) 0%, rgba(233,64,87,0.1) 50%, rgba(242,113,33,0.1) 100%); border-radius: 10px; margin: 10px;">
+    <h3 style="color: #E94057;">⚡ Quantum NLP Pipeline</h3>
+    <p>Experimental framework exploring quantum computing principles for natural language understanding tasks.</p>
+    <div style="display: flex; justify-content: space-between; margin-top: 15px;">
+      <span style="background-color: rgba(138,35,135,0.2); padding: 5px 10px; border-radius: 5px;">Qiskit</span>
+      <span style="background-color: rgba(233,64,87,0.2); padding: 5px 10px; border-radius: 5px;">BERT</span>
+      <span style="background-color: rgba(242,113,33,0.2); padding: 5px 10px; border-radius: 5px;">PennyLane</span>
+    </div>
+  </div>
+  
+  <div style="flex: 1; max-width: 45%; padding: 15px; background: linear-gradient(135deg, rgba(138,35,135,0.1) 0%, rgba(233,64,87,0.1) 50%, rgba(242,113,33,0.1) 100%); border-radius: 10px; margin: 10px;">
+    <h3 style="color: #E94057;">🔄 Self-Learning Agent</h3>
+    <p>Autonomous agent that continuously improves through interaction with dynamic environments.</p>
+    <div style="display: flex; justify-content: space-between; margin-top: 15px;">
+      <span style="background-color: rgba(138,35,135,0.2); padding: 5px 10px; border-radius: 5px;">Ray RLlib</span>
+      <span style="background-color: rgba(233,64,87,0.2); padding: 5px 10px; border-radius: 5px;">PPO</span>
+      <span style="background-color: rgba(242,113,33,0.2); padding: 5px 10px; border-radius: 5px;">Meta-Learning</span>
+    </div>
+  </div>
+</div>
+
+<!-- NEURAL NETWORK CONTACT PORTAL -->
+<h2 align="center">📡 NEURAL TRANSMISSION CHANNELS 📡</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mandrita-dasgupta-00a8a428b">
-    <img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" height="40"/>
   </a>
   <a href="https://twitter.com/mandrita16">
-    <img height="40" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=plastic"/>
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic" height="40"/>
   </a>
   <a href="mailto:mandritadasgupta16@gmail.com">
-    <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" height="40"/>
   </a>
   <a href="https://github.com/mandrita16">
-    <img height="40" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic" height="40"/>
   </a>
 </div>
 
-<img align="right" height="280" width="400" alt="AI Engineer GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
-## 🤖 About Me
-
-```python
-class MandritaDasgupta:
-    def __init__(self):
-        self.name = "Mandrita Dasgupta"
-        self.education = "CS Engineering @ Heritage Institute"
-        self.interests = ["Artificial General Intelligence", 
-                          "Natural Language Processing", 
-                          "Neural Networks", 
-                          "Deep Learning"]
-        self.research_focus = "Creating intelligent systems that understand human cognition"
-        self.work_philosophy = "Building AI that augments human potential"
-        
-    def current_ventures(self):
-        return "Pushing the boundaries of transformer architectures and multimodal models"
-        
-    def life_mission(self):
-        return "Advancing the field of AI to create systems that benefit humanity"
-        
-    def quote(self):
-        return "The future belongs to those who bridge the gap between human and artificial intelligence"
-```
-
-## 🧠 AI & ML Tech Arsenal
-
+<!-- ANIMATED FOOTER -->
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">🔬 Machine Learning</h3>
-        <div align="center">  
-          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=plastic" alt="TensorFlow" height="28" />  
-          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white&style=plastic" alt="PyTorch" height="28" />  
-          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&style=plastic" alt="scikit-learn" height="28" />  
-          <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&style=plastic" alt="Keras" height="28" />
-          <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white&style=plastic" alt="SciPy" height="28" />
-          <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&style=plastic" height="28" alt="Hugging Face" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">📊 NLP & Data</h3>
-        <div align="center">  
-          <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white&style=plastic" alt="Transformers" height="28" />  
-          <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white&style=plastic" alt="spaCy" height="28" />  
-          <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white&style=plastic" alt="NLTK" height="28" />
-          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic" alt="Pandas" height="28" />  
-          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic" alt="NumPy" height="28" />
-          <img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=chain&logoColor=white&style=plastic" height="28" alt="LangChain" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">☁️ Web & Cloud</h3>
-        <div align="center">  
-          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&style=plastic" alt="React" height="28" />  
-          <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=plastic" alt="NodeJS" height="28" />  
-          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic" alt="AWS" height="28" />
-          <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&style=plastic" alt="Google Cloud" height="28" />
-          <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&style=plastic" alt="Docker" height="28" />
-          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic" height="28" alt="MongoDB" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🚀 Current AI Explorations
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🧠 Neural Architecture Design</h3>
-        <p>Pioneering novel architectural patterns for efficient deep learning</p>
-      </td>
-      <td>
-        <h3>🔮 Self-Supervised Learning</h3>
-        <p>Developing frameworks that learn without labeled data</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>🌐 Multimodal Intelligence</h3>
-        <p>Fusing visual, textual and audio understanding in unified models</p>
-      </td>
-      <td>
-        <h3>🤖 Reinforcement Learning</h3>
-        <p>Building systems that learn from interaction and feedback</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>🔍 Attention Mechanisms</h3>
-        <p>Advancing contextual understanding in language models</p>
-      </td>
-      <td>
-        <h3>🌟 Responsible AI</h3>
-        <p>Embedding ethical considerations into AI system design</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 My AI Journey Visualization
-
-```mermaid
-graph TD
-    A[Classical ML] -->|Feature Engineering| B[Neural Networks]
-    B -->|Deep Learning| C[Advanced Architectures]
-    C -->|Attention Mechanism| D[Transformers]
-    D -->|Scale & Efficiency| E[Large Language Models]
-    E -->|Multimodality| F[Vision-Language Models]
-    F -->|Reasoning| G[AGI Research]
-    
-    style A fill:#ff5f56,stroke:#ff5f56,color:white,stroke-width:3px
-    style B fill:#ffbd2e,stroke:#ffbd2e,color:white,stroke-width:3px
-    style C fill:#27c93f,stroke:#27c93f,color:white,stroke-width:3px
-    style D fill:#58a6ff,stroke:#58a6ff,color:white,stroke-width:3px
-    style E fill:#8957e5,stroke:#8957e5,color:white,stroke-width:3px
-    style F fill:#d2a8ff,stroke:#d2a8ff,color:white,stroke-width:3px
-    style G fill:#f97583,stroke:#f97583,color:white,stroke-width:3px,stroke-dasharray: 5 5
-```
-
-## 💻 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&theme=tokyo-night&hide_border=true&radius=10&area=true&point=false" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=ff9c24&currStreakLabel=00b4d8" height="220"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%">
-</div>
-
-<!-- AI SKILLS PROGRESS BARS -->
-<h2 align="center">🧠 AI Expertise Levels</h2>
-<div align="center">
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/95/?title=Deep%20Learning&width=500&color=ff5f56" alt="Deep Learning">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/90/?title=Natural%20Language%20Processing&width=500&color=ffbd2e" alt="NLP">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/85/?title=Computer%20Vision&width=500&color=27c93f" alt="Computer Vision">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/80/?title=Reinforcement%20Learning&width=500&color=58a6ff" alt="Reinforcement Learning">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/75/?title=MLOps&width=500&color=8957e5" alt="MLOps">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/70/?title=Generative%20AI&width=500&color=d2a8ff" alt="Generative AI">
-  </div>
-</div>
-
-<!-- Featured Projects Section -->
-<h2 align="center">💼 Featured AI Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/mandrita16/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandrita16&repo=transformer-architecture&theme=radical" />
-  </a>
-  <a href="https://github.com/mandrita16/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandrita16&repo=nlp-research&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/mandrita16/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandrita16&repo=multimodal-learning&theme=radical" />
-  </a>
-  <a href="https://github.com/mandrita16/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mandrita16&repo=reinforcement-learning&theme=radical" />
-  </a>
-</div>
-
-<!-- AI Resources Section -->
-<h2 align="center">📚 AI Knowledge Sharing</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>📖 Recent Publications</h3>
-        <ul>
-          <li>Transformer Architecture Optimization for Low-Resource Settings</li>
-          <li>Multimodal Learning: Bridging Vision and Language</li>
-          <li>Neural Scaling Laws: Implications for Model Efficiency</li>
-        </ul>
-      </td>
-      <td>
-        <h3>🎓 Tutorials & Guides</h3>
-        <ul>
-          <li>Building Advanced NLP Pipelines from Scratch</li>
-          <li>Optimizing Deep Learning Models for Production</li>
-          <li>Prompt Engineering for Large Language Models</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="80%"/>
-</div>
-
-<div align="center">
-  <img height="140" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&he
