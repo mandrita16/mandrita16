@@ -19,7 +19,7 @@
   </a>
 </div>
 
-<img align="right" height="270" width="400" alt="GIF" src="[https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)" />
+<img align="right" height="270" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 🤖 About Me
 
@@ -84,7 +84,7 @@ class MandritaDasgupta:
 ## 🚀 Current AI Explorations
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="300">
 </div>
 
 - 🧠 **Neural Networks Evolution**: Pushing the boundaries of neural architecture design
@@ -124,7 +124,7 @@ graph TD
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%">
 </div>
 
 <!-- AI SKILLS PROGRESS BARS -->
