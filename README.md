@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MANDRITA%20DASGUPTA&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=white&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20Neural%20Network%20Architect&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MANDRITA%20DASGUPTA&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=F85D7F&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=🤖+AI+ENGINEER+%7C+ML+RESEARCHER;🧠+NEURAL+NETWORK+ARCHITECT" />
-</div>
-
-<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=false&width=600&height=60&lines=AI+Engineer+%7C+ML+Researcher" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=NLP+Specialist;Deep+Learning+Enthusiast;AGI+Explorer;Neural+Network+Architect" />
 </div>
 
@@ -22,12 +19,7 @@
   </a>
 </div>
 
-<!-- Cool AI Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<img align="right" height="300" width="400" alt="Cool AI GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" height="270" width="400" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ## 🤖 About Me
 
@@ -50,13 +42,7 @@ class MandritaDasgupta:
         return "Advancing the field of AI to create systems that benefit humanity"
 ```
 
-<br clear="both"/>
-
 ## 🧠 AI & ML Tech Arsenal
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100">
-</div>
 
 <div align="center">
   <table>
@@ -98,7 +84,7 @@ class MandritaDasgupta:
 ## 🚀 Current AI Explorations
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300">
 </div>
 
 - 🧠 **Neural Networks Evolution**: Pushing the boundaries of neural architecture design
@@ -108,10 +94,6 @@ class MandritaDasgupta:
 - 🔍 **Attention Mechanisms**: Advancing context understanding in language models
 
 ## 📊 My AI Journey Visualization
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-</div>
 
 ```mermaid
 graph TD
@@ -134,38 +116,19 @@ graph TD
 ## 💻 Code Metrics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&theme=tokyo-night&hide_border=true&radius=8" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&custom_title=Mandrita's%20AI%20Development%20Journey&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=tokyonight&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397" height="200"/>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=radical&hide_border=true&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&bg_color=0D1117" height="200"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mandrita16&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" height="200"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Filtered Trophies (Removed reviews, issues, experience, stars) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7" width="100%">
 </div>
 
 <!-- AI SKILLS PROGRESS BARS -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35">
-  🧠 AI Expertise Levels
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35">
-</h2>
-
+<h2 align="center">🧠 AI Expertise Levels</h2>
 <div align="center">
   <div style="display: flex; align-items: flex-start; justify-content: center;">
     <img src="https://progress-bar.dev/95/?title=Deep%20Learning&width=400&color=ff5f56" alt="Deep Learning">
@@ -184,59 +147,10 @@ graph TD
   </div>
 </div>
 
-<!-- Cool Skills Icons -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,aws,gcp,kubernetes,git,linux&theme=dark" />
-</div>
-
-<!-- Enhanced Footer with Cool Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50">
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!;Let's+build+the+future+of+AI!;Neural+networks+are+awesome! 🧠✨" />
-</div>
-
 <div align="center">
   <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mandrita16&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mandrita16?label=Followers&style=for-the-badge&color=4ECDC4&labelColor=1a1a1a" alt="GitHub Followers" />
-</div>
-```
-
-Perfect! Here's your original AI/ML focused README with:
-
-✨ **Enhanced Animations:**
-- Twinkling header and footer effects
-- Multiple cool AI-themed GIFs throughout
-- Enhanced typing animations with better fonts
-- 3D parallax-style visual effects
-
-🎨 **Cooler GIFs:**
-- Matrix-style digital rain effect
-- Advanced neural network animations
-- Futuristic AI brain visualizations
-- Dynamic coding and data flow animations
-
-🏆 **Trophy Filtering:**
-- Removed reviews, issues, experience, and stars as requested
-- Kept relevant achievement categories
-- Enhanced visual presentation
-
-🚀 **Additional Enhancements:**
-- Custom activity graph with AI branding
-- Skill icons with dark theme
-- Enhanced progress bars with animations
-- Better color schemes and gradients
-
-Your README now has that ultra-cool animated feel while keeping your original AI/ML researcher focus!
-
