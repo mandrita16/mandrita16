@@ -1,13 +1,16 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=venom&height=300&text=MANDRITA%20DASGUPTA&fontSize=70&color=0:667eea,50:764ba2,100:f093fb&fontColor=fff&stroke=fff&strokeWidth=2&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20ML%20RESEARCHER%20%7C%20AGI%20EXPLORER&descSize=20&descAlignY=65)</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=MANDRITA%20DASGUPTA&fontSize=80&color=0:667eea,50:764ba2,100:f093fb&fontColor=ffffff&stroke=ffffff&strokeWidth=3&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20ML%20RESEARCHER%20%7C%20AGI%20EXPLORER&descSize=22&descAlignY=70&fontAlignY=40" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=🚀+PUSHING+THE+BOUNDARIES+OF+AI;🧠+NEURAL+ARCHITECT+%26+DEEP+LEARNING+VISIONARY;🔮+BUILDING+THE+FUTURE+OF+INTELLIGENCE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=2500&pause=800&color=F093FB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=🚀+PUSHING+THE+BOUNDARIES+OF+AI;🧠+NEURAL+ARCHITECT+%26+DEEP+LEARNING+VISIONARY;🔮+BUILDING+THE+FUTURE+OF+INTELLIGENCE;⚡+TRANSFORMING+IDEAS+INTO+INTELLIGENT+SYSTEMS" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **NEURAL NETWORK ARCHITECT**
