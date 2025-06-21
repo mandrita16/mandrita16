@@ -127,25 +127,63 @@ graph TD
   <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7" width="100%">
 </div>
 
-<!-- AI SKILLS PROGRESS BARS -->
-<h2 align="center">🧠 AI Expertise Levels</h2>
-<div align="center">
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/95/?title=Deep%20Learning&width=400&color=ff5f56" alt="Deep Learning">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/90/?title=Natural%20Language%20Processing&width=400&color=ffbd2e" alt="NLP">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/85/?title=Computer%20Vision&width=400&color=27c93f" alt="Computer Vision">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/80/?title=Reinforcement%20Learning&width=400&color=58a6ff" alt="Reinforcement Learning">
-  </div>
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://progress-bar.dev/70/?title=MLOps&width=400&color=8957e5" alt="MLOps">
-  </div>
+</table>
 </div>
+
+<!-- ANIMATED SKILL ICONS -->
+<div align="center">
+  <h3>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
+    TECH STACK MASTERY
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
+  </h3>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,aws,gcp,kubernetes,git,linux&theme=dark&perline=10" />
+</div>
+
+<!-- NEURAL NETWORK VISUALIZATION -->
+<div align="center">
+  <h3>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+    NEURAL ARCHITECTURE EXPERTISE
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Convolutional_Neural_Networks-Expert-ff6b6b?style=flat-square&logo=tensorflow" />
+        <br/>
+        <img src="https://img.shields.io/badge/Recurrent_Neural_Networks-Advanced-4ecdc4?style=flat-square&logo=pytorch" />
+        <br/>
+        <img src="https://img.shields.io/badge/Transformer_Architecture-Expert-45b7d1?style=flat-square&logo=huggingface" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Generative_Adversarial_Networks-Proficient-96ceb4?style=flat-square&logo=nvidia" />
+        <br/>
+        <img src="https://img.shields.io/badge/Attention_Mechanisms-Expert-feca57?style=flat-square&logo=openai" />
+        <br/>
+        <img src="https://img.shields.io/badge/Neural_Architecture_Search-Growing-ff9ff3?style=flat-square&logo=google" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ANIMATED EXPERTISE METER -->
+<div align="center">
+  <h3>
+    <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="30">
+    AI MASTERY METER
+    <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="30">
+  </h3>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=50&lines=🔥+Deep+Learning+Mastery%3A+95%25+Complete;🚀+NLP+Expertise%3A+90%25+Advanced;👁️+Computer+Vision%3A+85%25+Proficient;🤖+RL+Skills%3A+80%25+Developing;⚙️+MLOps%3A+70%25+Growing" />
+</div>
+
+<!-- COOL ANIMATED DIVIDER -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</div>
+```
 
 <div align="center">
   <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
