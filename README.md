@@ -1,11 +1,35 @@
+<div align="center">
+
 # Mandrita Dasgupta
-### AI Engineer | Machine Learning Researcher | NLP Specialist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Researcher;NLP+Specialist;Neural+Network+Architect" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandrita-dasgupta-00a8a428b)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mandrita16)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mandritadasgupta16@gmail.com)
 
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandrita16&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandrita16&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=algolia" alt="GitHub Streak"/>
+</div>
+
+---
+
+<img align="right" alt="AI Animation" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## About Me
 
@@ -14,6 +38,10 @@ I'm a Computer Science Engineering student at Heritage Institute with a deep pas
 **Current Focus:** Exploring transformer architectures, multimodal learning, and the intersection of symbolic reasoning with neural networks.
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Data Science Animation"/>
+</div>
 
 ## Research Interests
 
@@ -55,7 +83,10 @@ I'm a Computer Science Engineering student at Heritage Institute with a deep pas
 
 ---
 
-## Current Projects & Research
+<div align="center">
+  <h2>🚀 Current Projects & Research</h2>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Brain Animation"/>
+</div>
 
 ### 🧠 Neural Architecture Optimization
 Investigating automated methods for designing efficient transformer variants with reduced computational overhead while maintaining performance on downstream NLP tasks.
@@ -103,6 +134,12 @@ Currently exploring collaborations in:
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=2000&pause=1000&color=0366D6&center=true&vCenter=true&width=800&lines=Let's+build+the+future+of+AI+together!;Always+open+to+research+collaborations;Exploring+the+frontiers+of+machine+intelligence" alt="Footer Animation"/>
+</div>
+
 ## Let's Connect
 
 I'm always interested in discussing:
@@ -115,4 +152,10 @@ Feel free to reach out if you'd like to discuss research ideas, potential collab
 
 ---
 
-*"Building the future of intelligent systems, one neural network at a time."*
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br/>
+  <em>"Building the future of intelligent systems, one neural network at a time."</em>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=mandrita16&color=blue&style=flat" alt="Profile Views"/>
+</div>
