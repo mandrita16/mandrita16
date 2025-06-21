@@ -26,7 +26,7 @@
 class MandritaDasgupta:
     def __init__(self):
         self.name = "Mandrita Dasgupta"
-        self.education = "CS Engineering @ Heritage Institute"
+        self.education = "Computer Science and  Engineering @ Heritage Institute Of Technology"
         self.interests = ["Artificial General Intelligence", 
                           "Natural Language Processing", 
                           "Neural Networks", 
