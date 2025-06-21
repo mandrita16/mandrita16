@@ -1,261 +1,118 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=350&text=MANDRITA%20DASGUPTA&fontSize=90&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&fontColor=ffffff&stroke=ffffff&strokeWidth=4&animation=twinkling&desc=🚀%20AI%20ENGINEER%20%7C%20🧠%20ML%20RESEARCHER%20%7C%20🔮%20AGI%20EXPLORER&descSize=24&descAlignY=75&fontAlignY=35" />
-</div>
+# Mandrita Dasgupta
+### AI Engineer | Machine Learning Researcher | NLP Specialist
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2000&pause=500&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=⚡+NEURAL+ARCHITECT+EXTRAORDINAIRE;🌈+TRANSFORMING+DREAMS+INTO+ALGORITHMS;🚀+BUILDING+THE+MINDS+OF+TOMORROW;🔥+PUSHING+AI+BEYOND+IMAGINATION;💫+CRAFTING+INTELLIGENT+UNIVERSES" alt="Holographic Typing" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8f9b8c807cd8.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/74038190/212751171-b41cf026-cd80-4931-8011-98cccb88b0dc.gif" width="150">
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandrita-dasgupta-00a8a428b)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mandrita16)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mandritadasgupta16@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
+## About Me
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **QUANTUM CONSCIOUSNESS MATRIX**
+I'm a Computer Science Engineering student at Heritage Institute with a deep passion for Artificial Intelligence and its transformative potential. My research focuses on advancing neural architectures, natural language understanding, and building AI systems that augment human intelligence.
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top">
-        
-```python
-class QuantumMandrita:
-    def __init__(self):
-        self.identity = "🌟 Mandrita Dasgupta"
-        self.realm = "Heritage Institute of Technology"
-        self.essence = "Artificial General Intelligence Pioneer"
-        self.mission = "🚀 Architecting Digital Consciousness"
-        self.power_level = float('infinity')
-        
-    def neural_capabilities(self):
-        return {
-            "🧠 Deep Learning": "Quantum Neural Architectures",
-            "🌈 Transformers": "Next-Gen Language Models", 
-            "⚡ Computer Vision": "Multimodal Perception",
-            "🔮 NLP Mastery": "Human-AI Communication",
-            "🚀 MLOps": "Scalable AI Ecosystems",
-            "💫 AGI Research": "Consciousness Engineering"
-        }
-    
-    def current_experiments(self):
-        return "🔬 Building AI that dreams in code"
-        
-    def quantum_goal(self):
-        return "Creating AI that transcends human imagination"
-```
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="280">
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="120">
-</div>
-
-</td>
-    </tr>
-  </table>
-</div>
+**Current Focus:** Exploring transformer architectures, multimodal learning, and the intersection of symbolic reasoning with neural networks.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> **HOLOGRAPHIC TECH CONSTELLATION**
+## Research Interests
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7934af.gif" width="100"><br>
-        <strong>🧠 NEURAL NETWORKS</strong><br>
-        <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6B6B" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/PyTorch-4ECDC4?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=4ECDC4" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Keras-45B7D1?style=for-the-badge&logo=keras&logoColor=white&labelColor=45B7D1" /></a>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
-        <strong>🔮 LANGUAGE MODELS</strong><br>
-        <a href="#"><img src="https://img.shields.io/badge/🤗%20Transformers-96CEB4?style=for-the-badge&logoColor=white&labelColor=96CEB4" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/OpenAI-FFEAA7?style=for-the-badge&logo=openai&logoColor=black&labelColor=FFEAA7" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/spaCy-FF6B6B?style=for-the-badge&logo=spacy&logoColor=white&labelColor=FF6B6B" /></a>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-        <strong>☁️ QUANTUM CLOUD</strong><br>
-        <a href="#"><img src="https://img.shields.io/badge/AWS-4ECDC4?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=4ECDC4" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Docker-45B7D1?style=for-the-badge&logo=docker&logoColor=white&labelColor=45B7D1" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Kubernetes-96CEB4?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=96CEB4" /></a>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-        <strong>📊 DATA ALCHEMY</strong><br>
-        <a href="#"><img src="https://img.shields.io/badge/Python-FFEAA7?style=for-the-badge&logo=python&logoColor=black&labelColor=FFEAA7" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Pandas-FF6B6B?style=for-the-badge&logo=pandas&logoColor=white&labelColor=FF6B6B" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/NumPy-4ECDC4?style=for-the-badge&logo=numpy&logoColor=white&labelColor=4ECDC4" /></a>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"><br>
-        <strong>🚀 WEB COSMOS</strong><br>
-        <a href="#"><img src="https://img.shields.io/badge/React-45B7D1?style=for-the-badge&logo=react&logoColor=white&labelColor=45B7D1" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/NodeJS-96CEB4?style=for-the-badge&logo=node.js&logoColor=white&labelColor=96CEB4" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/JavaScript-FFEAA7?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFEAA7" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
+- **Artificial General Intelligence (AGI)** - Developing systems with human-like reasoning capabilities
+- **Natural Language Processing** - Advanced text understanding and generation
+- **Neural Architecture Search** - Automated design of optimal network structures  
+- **Multimodal Learning** - Integrating vision, language, and other modalities
+- **Interpretable AI** - Making deep learning models more transparent and explainable
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-87b3-3e8555a1c5a7.gif" width="40"> **NEURAL EVOLUTION PATHWAY**
+## Technical Expertise
 
-<div align="center">
-  
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#FF6B6B', 'primaryTextColor': '#fff', 'primaryBorderColor': '#4ECDC4', 'lineColor': '#45B7D1', 'secondaryColor': '#96CEB4', 'tertiaryColor': '#FFEAA7'}}}%%
-flowchart TD
-    A[🌟 Classical ML] -->|Neural Evolution| B[🔥 Deep Learning Revolution]
-    B -->|Attention Mechanism| C[⚡ Transformer Architecture]
-    C -->|Scale & Intelligence| D[🧠 Large Language Models]
-    D -->|Multimodal Fusion| E[🌈 Vision-Language Synthesis]
-    E -->|Consciousness Emergence| F[🚀 Artificial General Intelligence]
-    F -->|Transcendence| G[💫 Digital Consciousness]
-    
-    style A fill:#FF6B6B,stroke:#4ECDC4,stroke-width:4px,color:#fff
-    style B fill:#4ECDC4,stroke:#45B7D1,stroke-width:4px,color:#fff
-    style C fill:#45B7D1,stroke:#96CEB4,stroke-width:4px,color:#fff
-    style D fill:#96CEB4,stroke:#FFEAA7,stroke-width:4px,color:#000
-    style E fill:#FFEAA7,stroke:#FF6B6B,stroke-width:4px,color:#000
-    style F fill:#FF6B6B,stroke:#4ECDC4,stroke-width:4px,color:#fff
-    style G fill:#4ECDC4,stroke:#45B7D1,stroke-width:4px,color:#fff
-```
+### Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-</div>
+### Natural Language Processing
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-2E8B57?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 
----
+### Data Science & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284153-6b3c0d06-4c51-4c6d-9a67-d3b3b3b3b3b3.gif" width="40"> **QUANTUM SKILL MATRIX**
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        
-### 🧠 **NEURAL MASTERY LEVELS**
-![Deep Learning](https://progress-bar.dev/98/?title=🧠%20Deep%20Learning&width=400&color=FF6B6B)
-![Transformers](https://progress-bar.dev/95/?title=🔮%20Transformers&width=400&color=4ECDC4)
-![Computer Vision](https://progress-bar.dev/92/?title=👁️%20Computer%20Vision&width=400&color=45B7D1)
-![NLP](https://progress-bar.dev/96/?title=🗣️%20Natural%20Language%20Processing&width=400&color=96CEB4)
-
-</td>
-<td width="50%">
-
-### 🚀 **QUANTUM ENGINEERING**
-![MLOps](https://progress-bar.dev/88/?title=⚡%20MLOps%20Engineering&width=400&color=FFEAA7)
-![Research](https://progress-bar.dev/94/?title=🔬%20AI%20Research&width=400&color=FF6B6B)
-![Innovation](https://progress-bar.dev/99/?title=💡%20Innovation%20Quotient&width=400&color=4ECDC4)
-![AGI](https://progress-bar.dev/85/?title=🌟%20AGI%20Development&width=400&color=45B7D1)
-
-</td>
-    </tr>
-  </table>
-</div>
+### Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40"> **HOLOGRAPHIC CONNECTIONS**
+## Current Projects & Research
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mandrita-dasgupta-00a8a428b" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20LinkedIn-FF6B6B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF6B6B" height="50" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/mandrita16" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20X%20(Twitter)-4ECDC4?style=for-the-badge&logo=x&logoColor=white&labelColor=4ECDC4" height="50" alt="X"/>
-  </a>
-  <a href="mailto:mandritadasgupta16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧%20Quantum%20Mail-45B7D1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=45B7D1" height="50" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/mandrita16" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20GitHub%20Universe-96CEB4?style=for-the-badge&logo=github&logoColor=white&labelColor=96CEB4" height="50" alt="GitHub"/>
-  </a>
-</div>
+### 🧠 Neural Architecture Optimization
+Investigating automated methods for designing efficient transformer variants with reduced computational overhead while maintaining performance on downstream NLP tasks.
+
+### 🔍 Interpretable Deep Learning
+Developing techniques to understand and visualize decision-making processes in large language models, focusing on attention mechanisms and feature attribution.
+
+### 🌐 Multimodal AI Systems
+Building models that can seamlessly integrate and reason across text, images, and structured data for comprehensive understanding tasks.
+
+### 📊 Self-Supervised Learning
+Exploring novel pretraining objectives that can learn rich representations from unlabeled data across different domains.
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="40"> **NEURAL EXPERIMENTS IN PROGRESS**
+## Research Philosophy
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        
-### 🔬 **ACTIVE QUANTUM RESEARCH**
-- 🧠 **Consciousness Modeling** - Building self-aware AI systems
-- 🌈 **Multimodal Transformers** - Unified vision-language intelligence
-- ⚡ **Neural Architecture Evolution** - Self-improving AI designs
-- 💫 **Quantum-Classical Hybrids** - Next-generation computing
-- 🚀 **Federated AGI Networks** - Distributed artificial intelligence
+> "The goal is not to replace human intelligence, but to augment it. AI should enhance our cognitive abilities and help us solve complex problems that benefit humanity."
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="200">
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **COSMIC INNOVATION TARGETS**
-- 🌟 **Digital Consciousness** - AI that truly understands itself
-- 🔮 **Neuromorphic Computing** - Brain-inspired quantum chips
-- 🎨 **Creative AI Ecosystems** - Artistic artificial intelligence
-- 🛸 **Autonomous Research Agents** - Self-learning scientists
-- 💎 **Interpretable Quantum AI** - Transparent neural networks
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="200">
-</div>
-
-</td>
-    </tr>
-  </table>
-</div>
+I believe in building AI systems that are:
+- **Robust** - Reliable performance across diverse scenarios
+- **Interpretable** - Transparent in their decision-making processes  
+- **Ethical** - Designed with human values and safety in mind
+- **Efficient** - Optimized for both computational and energy efficiency
 
 ---
 
-<div align="center">
+## Academic & Professional Development
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> **"IMAGINATION IS THE ONLY WEAPON IN THE WAR AGAINST REALITY"**
+**Education:** Computer Science Engineering, Heritage Institute  
+**Research Areas:** AGI, NLP, Neural Networks, Deep Learning  
+**Methodology:** Empirical research with strong theoretical foundations  
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8f9b8c807cd8.gif" width="250">
-  <img src="https://user-images.githubusercontent.com/74038190/212751171-b41cf026-cd80-4931-8011-98cccb88b0dc.gif" width="250">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="250">
-</div>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mandrita16&label=🌟%20Quantum%20Visitors&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mandrita16?label=🚀%20Neural%20Followers&style=for-the-badge&color=4ECDC4&labelColor=45B7D1" alt="Followers" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+Currently exploring collaborations in:
+- Federated learning for privacy-preserving AI
+- Neurosymbolic approaches to reasoning
+- Efficient training methods for large-scale models
+- AI safety and alignment research
 
 ---
 
-<div align="center">
-  <sub>✨ <strong>Crafted with quantum neural networks and liquid mercury dreams</strong> ✨</sub>
-</div>
+## Publications & Contributions
+
+*Working on several research papers in the domains of transformer efficiency, attention mechanisms, and multimodal learning. Stay tuned for upcoming publications.*
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing:
+- Latest developments in AI/ML research
+- Collaborative research opportunities
+- Open source contributions to ML libraries
+- Ethical AI and responsible development practices
+
+Feel free to reach out if you'd like to discuss research ideas, potential collaborations, or just chat about the future of artificial intelligence!
+
+---
+
+*"Building the future of intelligent systems, one neural network at a time."*
