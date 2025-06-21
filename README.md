@@ -127,30 +127,25 @@ graph TD
   <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7" width="100%">
 </div>
 
-</table>
-</div>
-
-<!-- ANIMATED SKILL ICONS -->
+<!-- AI SKILLS PROGRESS BARS -->
+<h2 align="center">🧠 AI Expertise Levels</h2>
 <div align="center">
-  <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
-    TECH STACK MASTERY
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
-  </h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,docker,aws,gcp,kubernetes,git,linux&theme=dark&perline=10" />
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/95/?title=Deep%20Learning&width=400&color=ff5f56" alt="Deep Learning">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/90/?title=Natural%20Language%20Processing&width=400&color=ffbd2e" alt="NLP">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/85/?title=Computer%20Vision&width=400&color=27c93f" alt="Computer Vision">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/80/?title=Reinforcement%20Learning&width=400&color=58a6ff" alt="Reinforcement Learning">
+  </div>
+  <div style="display: flex; align-items: flex-start; justify-content: center;">
+    <img src="https://progress-bar.dev/70/?title=MLOps&width=400&color=8957e5" alt="MLOps">
+  </div>
 </div>
-
-<!-- NEURAL NETWORK VISUALIZATION -->
-<div align="center">
-  <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-    NEURAL ARCHITECTURE EXPERTISE
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-  </h3>
-  
- AI SKILLS PROGRESS BARS -->
-
-<h2 align="center">🧠 AI Expertise Levels</h2> <div align="center"> <div style="display: flex; align-items: flex-start; justify-content: center;"> <img src="https://progress-bar.dev/95/?title=Deep%20Learning&width=400&color=ff5f56" alt="Deep Learning"> </div> <div style="display: flex; align-items: flex-start; justify-content: center;"> <img src="https://progress-bar.dev/90/?title=Natural%20Language%20Processing&width=400&color=ffbd2e" alt="NLP"> </div> <div style="display: flex; align-items: flex-start; justify-content: center;"> <img src="https://progress-bar.dev/85/?title=Computer%20Vision&width=400&color=27c93f" alt="Computer Vision"> </div> <div style="display: flex; align-items: flex-start; justify-content: center;"> <img src="https://progress-bar.dev/80/?title=Reinforcement%20Learning&width=400&color=58a6ff" alt="Reinforcement Learning"> </div> <div style="display: flex; align-items: flex-start; justify-content: center;"> <img src="https://progress-bar.dev/70/?title=MLOps&width=400&color=8957e5" alt="MLOps"> </div> 
 
 <div align="center">
   <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
