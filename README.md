@@ -114,17 +114,21 @@ graph TD
 
 ## 💻 Code Metrics
 
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&theme=tokyo-night&hide_border=true&radius=8" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&theme=tokyo-night&hide_border=true&radius=12" width="95%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=tokyonight&hide_border=true&stroke=0000&ring=e05397&fire=e05397&currStreakLabel=e05397" height="200"/>
+<!-- GitHub Streak Stats -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=tokyonight&hide_border=true&stroke=ffffff&ring=e05397&fire=e05397&currStreakLabel=ffffff" height="200" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=7&title=Followers,Stars,Repositories,Commits,PullRequest" width="100%">
+<!-- GitHub Profile Trophy -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=6" width="100%">
 </div>
+
 
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> </div> 
