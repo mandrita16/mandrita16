@@ -145,3 +145,5 @@ graph TD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+
+https://komarev.com/ghpvc/?username=mandrita16&label=Profile%20Views&color=blueviolet&style=for-the-badge
