@@ -126,7 +126,11 @@ graph TD
 
 <!-- GitHub Profile Trophy -->
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=mandrita16&theme=radical&no-frame=true&no-bg=true&column=6" width="100%">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mandrita16&theme=onedark
+https://trophy.ryglcloud.net/?username=mandrita16&theme=onedark
+https://github-profile-trophy-winning.vercel.app/?username=mandrita16&theme=onedark
+https://gh-trophy.cdnsoft.net/?username=mandrita16&theme=onedark
+https://trophy.benkou.dev/?username=mandrita16&theme=onedark" width="100%">
 </div>
 
 
