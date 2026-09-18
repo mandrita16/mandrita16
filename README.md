@@ -116,7 +116,7 @@ graph TD
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mandrita16&theme=tokyo-night&hide_border=true&radius=12" width="95%">
+  <img src="https://ghchart.rshah.org/mandrita16" width="95%">
 </div>
 
 <!-- GitHub Streak Stats -->
