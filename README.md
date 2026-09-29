@@ -118,6 +118,9 @@ graph TD
 <div align="center">
   <img src="https://ghchart.rshah.org/mandrita16" width="95%">
 </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mandrita16&theme=radical&hide_border=true" />
+</p>
 
 <!-- GitHub Streak Stats -->
 <div align="center" style="margin-top: 20px;">
