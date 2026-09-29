@@ -118,6 +118,7 @@ graph TD
 <div align="center">
   <img src="https://ghchart.rshah.org/mandrita16" width="95%">
 </div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mandrita16&bg_color=0d1117&color=00D4FF&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2&hide_border=true&custom_title=Mandrita's%20Contribution%20Graph" />
 
 <!-- GitHub Streak Stats -->
 <p align="center">
@@ -125,13 +126,11 @@ graph TD
 </p>
 
 <!-- GitHub Profile Trophy -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mandrita16&theme=onedark
-https://trophy.ryglcloud.net/?username=mandrita16&theme=onedark
-https://github-profile-trophy-winning.vercel.app/?username=mandrita16&theme=onedark
-https://gh-trophy.cdnsoft.net/?username=mandrita16&theme=onedark
-https://trophy.benkou.dev/?username=mandrita16&theme=onedark" width="100%">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/mandrita16?style=for-the-badge&logo=github&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/mandrita16?style=for-the-badge&logo=github&color=8A2BE2" />
+  <img src="https://komarev.com/ghpvc/?username=mandrita16&style=for-the-badge&color=8A2BE2" />
+</p>
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400"> </div> 
 
