@@ -133,7 +133,9 @@ https://gh-trophy.cdnsoft.net/?username=mandrita16&theme=onedark
 https://trophy.benkou.dev/?username=mandrita16&theme=onedark" width="100%">
 </div>
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true" />
+</p>
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400"> </div> 
 
