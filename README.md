@@ -120,9 +120,9 @@ graph TD
 </div>
 
 <!-- GitHub Streak Stats -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandrita16&theme=tokyonight&hide_border=true&stroke=ffffff&ring=e05397&fire=e05397&currStreakLabel=ffffff" height="200" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mandrita16&theme=radical&hide_border=true" />
+</p>
 
 <!-- GitHub Profile Trophy -->
 <div align="center" style="margin-top: 20px;">
